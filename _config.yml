@@ -68,6 +68,7 @@ content:
         title: ASYSTR Cobots
         link: http://www.systemantics.com/products/
         link_text: Products - Systemantics India Pvt. Ltd.
+        content: ![Trees](images/landscape-trees.jpg "Trees")
         quote: >
           India's first indegenously developed collaborative Robot
         description: | # this will include new lines to allow paragraphs
