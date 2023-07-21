@@ -10,7 +10,7 @@ name: Ajinkya Kamat
 title: Roboticist
 email: ajinkyak@andrew.cmu.edu
 # email_title: Email (Email title override)
-# phone: Your phone number (optional)
+phone: +1 (972) 363-7359
 # phone_title: Phone (Phone title override)
 # website: Your website (eg. https://google.com)(optional)
 # website_title: Web (Website title override)
@@ -65,20 +65,16 @@ content:
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
-        title: Project name
-        link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        link_text: Link Text
-        additional_links:
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
-            icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
-            icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+        title: ASYSTR Cobots
+        link: http://www.systemantics.com/products/
+        link_text: Products - Systemantics India Pvt. Ltd.
         quote: >
-          Short overview of the project (optional)
+          India's first indegenously developed collaborative Robot
         description: | # this will include new lines to allow paragraphs
-          Description about the work on/with the project
+          - Modernized System Architecture by executing a move to ARMv8 based System Controller; assisted in identifying platform by performing performance tests; developed using ROS2 framework increasing modularity and extensibility
+          - Optimized Linux preempt-rt kernel-based OS for System-Level Controller achieving a latency of less than 10uS
+          - Established a streamlined development/deployment pipeline based on git, docker, and apt enabling reliable over-the-air updates and improving operational efficiency
+          - Conceptualized object-oriented architecture for Dual Motor Controller firmware, utilizing FreeRTOS to guarantee real-time performance, resulting in portable and safety-critical code
   - title: Experience
     layout: list
     content:
