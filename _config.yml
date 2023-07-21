@@ -50,15 +50,13 @@ googlescholar_username: Bf1uLHAAAAAJ
 
 # About Section
 # about_title: About Me (Use this to override about section title)
-about_profile_image: Directory of profile image (eg. images/profile.jpg)
+about_profile_image: images/MeWithRoman.png
 about_content: | # this will include new lines to allow paragraphs
-  Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
+  I am a First Year Graduate Student at the Robotics Institute, School of Computer Science, Carnegie Mellon University. My main area of focus is prehensile manipulation and navigation; electronics and design of robotics manipulators, however, I have a keen interest in becoming a full stack roboticist. I have designed and deployed indigenously designed Industrial Robots. I have also worked on motion planning and perception for debris clearing robot as a part of Robotic Collaborative Technical Alliance.
 
-  You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
-    - Lists
-    - Tables
-    - <a href="google.com">Links</a>
-    - Images ![alt text](/images/landscape-trees.jpg "Trees")
+  Previously, I was a Visiting Scientist at Paul G Allen School of Computer Science and Engineering at the University of Washington. I worked at the Personal Robotics Lab (PRL) with Prof. Siddhartha Srinivas. 
+
+  I have a Bachelor's of Technology in Electronics and Telecommunication from Visvesvaraya National Institute of Technology, Nagpur, India (VNIT). At VNIT, I designed ReBiS a novel Snake Robot capable of Bipedal Locomotion as a part of my thesis. After graduating, I worked at Systemantics India Private Limited, where I was the primary electronics engineer. Here I designed and developed the electronics and firmware for Asystr600, including the motherboard for the main controller as well as motor drivers for the joints. At PRL, I mainly work on Roman, a Bimanual tracked mobile robot developed at Jet Propulsion Lab and General Dynamics. My other contributions to the Lab, involve helping the Lab develop Aikido, a c++ library for robotic motion planning and decision making. I am also working on developing a robot capable of manipulation food using chopsticks for assistive feeding.
 
 content:
   - title: Projects # Title for the section
