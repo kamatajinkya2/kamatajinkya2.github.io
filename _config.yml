@@ -68,14 +68,14 @@ content:
         title: ASYSTR Cobots
         link: http://www.systemantics.com/products/
         link_text: Products - Systemantics India Pvt. Ltd.
-        # content: ![Trees](images/landscape-trees.jpg "Trees")
         quote: >
           India's first indegenously developed collaborative Robot
         description: | # this will include new lines to allow paragraphs
-          - odernized System Architecture by executing a move to ARMv8 based System Controller; assisted in identifying platform by performing performance tests; developed using ROS2 framework increasing modularity and extensibility
+          - Modernized System Architecture by executing a move to ARMv8 based System Controller; assisted in identifying platform by performing performance tests; developed using ROS2 framework increasing modularity and extensibility
           - Optimized Linux preempt-rt kernel-based OS for System-Level Controller achieving a latency of less than 10uS
           - Established a streamlined development/deployment pipeline based on git, docker, and apt enabling reliable over-the-air updates and improving operational efficiency
           - Conceptualized object-oriented architecture for Dual Motor Controller firmware, utilizing FreeRTOS to guarantee real-time performance, resulting in portable and safety-critical code
+          - ![Trees](images/landscape-trees.jpg "Trees")
   - title: Experience
     layout: list
     content:
