@@ -76,7 +76,7 @@ content:
         quote: >
           Pioneering Robotic Embodied AI for a Better Future
         description: | # this will include new lines to allow paragraphs
-          <img align="left" src="images/fai.jpg" alt="Trees" width="300" style=" display: block; margin: 0 auto" />
+          <img align="left" src="images/fai.jpg" alt="Trees" width="270" style=" display: block; margin: 0 auto" />
           
           - Lead a team of 4 members to build a state of the art automony payload for mobile robot dogs and humanoid robots, integrtating, LIDAR, Depth Sensor and CPU/GPU pair
           - Introduced design workflows, thereby reducing payload iteration times from 3 months to 1 month
