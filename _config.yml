@@ -10,7 +10,7 @@ name: Ajinkya Kamat
 title: Roboticist
 email: ajinkyak@andrew.cmu.edu
 # email_title: Email (Email title override)
-phone: +1 (972) 363-7359
+phone: +1 (949) 690 4127
 # phone_title: Phone (Phone title override)
 website: https://bit.ly/44RFPJt
 website_title: Resume
@@ -62,7 +62,28 @@ content:
   - title: Robots # Title for the section
     layout: list # Type of content section (list/text)
     content:
+    
+      - layout: top
+        border: weak  # Value of `weak` will display a weak border below this item. # Any 
+                      # other value (or no value) means no border will be displayed
+        title: Field AI Brain
+        link: https://fieldai.com/
+        link_text: More at Field AI
+        additional_links:
+          - title: Video
+            icon: fab fa-youtube
+            url: https://www.youtube.com/watch?v=R_tNFC0VPqo
+        quote: >
+          Pioneering Robotic Embodied AI for a Better Future
+        description: | # this will include new lines to allow paragraphs
+          <img align="left" src="images/fai.jpg" alt="Trees" width="300" style=" display: block; margin: 0 auto" />
+          
+          - Lead a team of 4 members to build a state of the art automony payload for mobile robot dogs and humanoid robots, integrtating, LIDAR, Depth Sensor and CPU/GPU pair
+          - Introduced design workflows, thereby reducing payload iteration times from 3 months to 1 month
+          - Ruggedized payload to automotive standards reducing mean time between failure from 3 days to two months
+    
 
+      
       - layout: top
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
